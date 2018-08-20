@@ -1,6 +1,7 @@
 # Magic 8 Ball
 
 All newly written solidity code is located in  Magic8Ball.sol
+
 Address on Ropsten testnet: https://ropsten.etherscan.io/address/0xe78f9e045af010a88a83c40c959792080c1e4bf6
 
 All contracts in the 'zeppelin' directory are helper/utility contracts taken from the OpenZeppelin github project
